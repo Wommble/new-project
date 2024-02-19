@@ -1,0 +1,21 @@
+[
+  {
+    "id": "99",
+    "quizes": [
+      {
+        "quiz": "id",
+        "template": "",
+        "info": [
+          {
+            "question": "",
+            "answers": [{ "correct": "", "wrong": ["", "", ""] }],
+            "answersb": [
+              { "text": "dorjoo", "isCorrect": true, "type": "" },
+              { "text": "boldoo", "isCorrect": true, "required": "=" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
